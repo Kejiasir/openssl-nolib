@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "openssl-nolib"
-  s.version      = "0.0.1.#{("a".."z").to_a.index 't'}"
+  s.version      = "0.0.2.#{("a".."z").to_a.index 'a'}"
   s.summary      = "OpenSSL for iOS and OS X"
   s.description  = "This is the openssl encryption library for iOS and macOS, but does not include the two compiled libcrypto.a and libssl.a files."
   s.homepage     = "https://github.com/Kejiasir/openssl-nolib"
